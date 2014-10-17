@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uln:home|Door43 (uln)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uln|d43-uln repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uln/archive/master.zip|d43-uln.zip]]
+
+**Recent Changes**
+{{changes>ns = uln}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uln|Ethnologue data]]
+
